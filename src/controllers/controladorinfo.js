@@ -17,4 +17,4 @@ let sinopsis=document.createElement("p")
 sinopsis.textContent=pelicula.sinopsis
 
 let etiquetaSipnosis=document.createElement("sinopsisPelicula")
-etiquetaSipnosis.textContent=peliculaConsultadaEnMemoria.
+etiquetaSipnosis.textContent=peliculaConsultadaEnMemoria.sinopsisPelicula
